@@ -2,9 +2,9 @@
 This repo exists to notify (particularly recruiters) of all my coursework projects being private, though they can see it after making a request.
 
 ### Due to coursework policy, all of the source code for my coursework projects/assignments cannot be made public (to curb cheating, and maintain the academic conduct agreement).
-So to all those who are interested in seeing the source, please send me a message on my [LinkedIn profile](https://www.linkedin.com/in/aryansharma1/) specifying the reason for the request and the repo that you would like to see, and I will grant you access to the requested repo **given it is safe to do so**.
+So to all those who are interested in seeing the source (and by extension by work/skills), please send me a message on my [LinkedIn profile](https://www.linkedin.com/in/aryansharma1/) specifying the reason for the request and the repo that you would like to see, and I will grant you access to the requested repo **given it is safe to do so**.
 
-**NO STUDENT, CURRENTLY (OR IN THE FUTURE) IN ANY OF THE FOLLOWING CLASSES, WILL BE GRANTED ACCESS FOR ANY REASON WHAT-SO-EVER!**
+**NO STUDENT, CURRENTLY (OR IN THE FUTURE) IN ANY OF THE FOLLOWING CLASSES, WILL BE GRANTED ACCESS!**
 
 ## Current Repos:
 
