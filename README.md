@@ -16,22 +16,22 @@ So to all those who are interested in seeing the source, please send me a messag
   - Sokoban refactoring
 
 2. Computer Science 300 (Programming 2: in Java) - Spring 2020
-  - Programming assignments 1 thru 10
+  - Programming assignments: 1 thru 10
   - Source for coding part of class Final
 
 3. Computer Science 400 (Programming 3: in Java) - Summer 2020
-  - Programming assignments 0 thru 4
+  - Programming assignments: 0 thru 4
   - Class final project using GUI (almost 2000 lines of code)
 
-4. Computer Science 354 (Machine Organization and Programming: in C) Summer 2020
-  - Programming assignments 1 thru 5
-  - Programming assignment 4 consisted of reverse engineering the source code of the C file from the assembly file (extracted from the provided executable binary)
-  - Programming assignment 5 consisted of building out our own memory heap allocator (malloc, calloc, etc)
+4. Computer Science 354 (Machine Organization and Programming: in C) - Summer 2020
+  - Programming assignments: 1 thru 5
+  - Programming assignment 4: consisted of reverse engineering the source code of the C file from the assembly file (extracted from the provided executable binary)
+  - Programming assignment 5: consisted of building out our own memory heap allocator (malloc, calloc, etc)
 
-5. Computer Science 220 (Data Programming 1: in Python) Fall 2020
-  - Programming assignments 1 thru 10
+5. Computer Science 220 (Data Programming 1: in Python) - Fall 2020
+  - Programming assignments: 1 thru 10
 
-6. Computer Science 537 (Introduction To Operating Systems: in C) Spring 2021
+6. Computer Science 537 (Introduction To Operating Systems: in C) - Spring 2021
   - Programming assignment 1: building my own implementation of 'look' and 'rev' Unix calls
   - Programming assignment 2: building my own system calls for the xv6 operating system (a port of a classic version of Unix to a modern processor, Intel's x86)
   - Programming assignment 3: building my own shell that can execute commands using fork() and exec(), and has basic functionality such as (un)aliasing, redirection, and batch mode processing in addition to the normal interactive shell mode
