@@ -25,7 +25,7 @@ So to all those who are interested in seeing the source (and by extension by wor
   - Programming assignments: 0 thru 4
   - Class final project using GUI (almost 2000 lines of code)
 
-4. Computer Science 354 (Machine Organization and Programming: in C) - Summer 2020
+4. Computer Science 354 (Machine Organization and Programming: in C and x86 Assembly) - Summer 2020
   - Programming assignments: 1 thru 5
   - Programming assignment 4: consisted of reverse engineering the source code of the C file from the assembly file (extracted from the provided executable binary)
   - Programming assignment 5: consisted of building out our own memory heap allocator (malloc, calloc, etc)
