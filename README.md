@@ -1,7 +1,7 @@
 # Note
 This repo exists to notify (particularly recruiters) of all my coursework projects being private (can see it after making a request).
 
-###### Due to coursework policy, all of the source code for my coursework projects/assignments cannot be made public (to curb cheating, and maintain the academic conduct agreement).
+##### Due to coursework policy, all of the source code for my coursework projects/assignments cannot be made public (to curb cheating, and maintain the academic conduct agreement).
 Please send me a message on my [LinkedIn profile](https://www.linkedin.com/in/aryansharma1/) if you would like to see my work (and by extension my skills).
 
 ## Current Repos:
